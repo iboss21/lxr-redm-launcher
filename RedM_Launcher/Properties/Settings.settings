@@ -63,7 +63,7 @@
       <Value Profile="(Default)" />
     </Setting>
     <Setting Name="Title" Type="System.String" Scope="User">
-      <Value Profile="(Default)">RedM Launcher</Value>
+      <Value Profile="(Default)">🐺 LXR RedM Launcher</Value>
     </Setting>
     <Setting Name="OnlineLogo" Type="System.String" Scope="User">
       <Value Profile="(Default)" />

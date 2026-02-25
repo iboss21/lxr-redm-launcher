@@ -265,7 +265,7 @@ namespace RedM_Launcher.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("RedM Launcher")]
+        [global::System.Configuration.DefaultSettingValueAttribute("🐺 LXR RedM Launcher")]
         public string Title {
             get {
                 return ((string)(this["Title"]));

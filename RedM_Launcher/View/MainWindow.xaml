@@ -1,4 +1,28 @@
-﻿<Window x:Class="RedM_Launcher.View.MainWindow"
+﻿<!--
+    ═══════════════════════════════════════════════════════════════════════════════
+
+        ██╗     ██╗  ██╗██████╗        ██████╗ ██████╗ ██████╗ ███████╗
+        ██║     ╚██╗██╔╝██╔══██╗      ██╔════╝██╔═══██╗██╔══██╗██╔════╝
+        ██║      ╚███╔╝ ██████╔╝█████╗██║     ██║   ██║██████╔╝█████╗
+        ██║      ██╔██╗ ██╔══██╗╚════╝██║     ██║   ██║██╔══██╗██╔══╝
+        ███████╗██╔╝ ██╗██║  ██║      ╚██████╗╚██████╔╝██║  ██║███████╗
+        ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝       ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+
+        🐺 LXR-Core — RedM Launcher
+        The Land of Wolves | wolves.land
+
+    ═══════════════════════════════════════════════════════════════════════════════
+
+        Server:      The Land of Wolves 🐺
+        Developer:   iBoss21 / The Lux Empire
+        Website:     https://www.wolves.land
+        Discord:     https://discord.gg/CrKcWdfd3A
+
+        © 2026 iBoss21 / The Lux Empire | wolves.land | All Rights Reserved
+
+    ═══════════════════════════════════════════════════════════════════════════════
+-->
+<Window x:Class="RedM_Launcher.View.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
